@@ -14,7 +14,7 @@
 ### 💬 About Me
 Hey there! I’m Inemesit, a second-year engineering student at **McMaster University** with a love for coding, STEM education, and leadership. I find joy in **creating projects, mentoring students, and bringing ideas to life**.  
 
-- 🎓 Studying **Computer Engineering**  
+- 🎓 Studying **Computer Engineering and Management**  
 - 💡 Passionate about **STEM outreach, sustainable solutions, and empowering youth**  
 - 👩🏾‍💻 Experienced in **Python, C, MATLAB, Embedded Systems, and Git**  
 - 🌱 Currently learning **System Design, Machine Learning, and Robotics**  
