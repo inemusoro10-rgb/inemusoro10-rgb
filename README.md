@@ -54,7 +54,8 @@ Explains any code snippet from a 5-year-old level all the way to senior develope
 <td width="50%">
 
 ### 🔐 Password Generator
-A secure password generator built in Python and integrated into the Teen Coding Club curriculum. Students used it as a hands-on introduction to cybersecurity concepts, with 20+ youth completing structured workshops where they built and tested the tool themselves.
+Built a command-line password generator in C using time-seeded random number generation across a 90-character set,
+deployed in a structured workshop with 10+ students who reported a 90% improvement in cybersecurity awareness.
 
 `Python` `Cybersecurity` `Education`
 
@@ -66,7 +67,7 @@ A secure password generator built in Python and integrated into the Teen Coding 
 ### 🐍 Snake Game
 A fully object-oriented Snake game with modular architecture separating player, food, and game state logic. The structure mirrors how real embedded software is organized, which was very much intentional.
 
-`C++` `C` `Makefile`
+`C++` `C`
 
 </td>
 <td width="50%">
