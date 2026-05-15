@@ -16,7 +16,7 @@
 
 ---
 
-## whoami 🙋🏾‍♀️
+## Who am I 🙋🏾‍♀️
 
 ```python
 inem = {
@@ -37,7 +37,7 @@ inem = {
 
 ---
 
-## what i've built 🛠️
+## What I've built 🛠️
 
 <table>
 <tr>
