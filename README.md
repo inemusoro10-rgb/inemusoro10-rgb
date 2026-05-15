@@ -19,7 +19,7 @@
 ## Who am I 🙋🏾‍♀️
 
 ```python
-inem = {
+Inem = {
     "school":     "McMaster University — Computer Engineering & Management 🍎",
     "year":       "going into 3rd year (class of 2029)",
     "gpa":        "3.76 / 4.0",
