@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTZkNmQ4ZGQ5YWVlZjZiZGQ4NzFkOGQ5YWVlZjZiZGQ4NzFkOA/L1R1tvI9svkIWwpVYr/giphy.gif" width="380" />
 
 <br/><br/>
 
@@ -54,10 +54,11 @@ Explains any code snippet from a 5-year-old level all the way to senior develope
 <td width="50%">
 
 ### 🔐 Password Generator
-Built a command-line password generator in C using time-seeded random number generation across a 90-character set,
-deployed in a structured workshop with 10+ students who reported a 90% improvement in cybersecurity awareness.
+Built a command-line password generator in C using time-seeded random number generation across a 90-character set, deployed in a structured workshop with 10+ students who reported a 90% improvement in cybersecurity awareness.
 
-`Python` `Cybersecurity` `Education`
+`C` `Cybersecurity` `Education`
+
+[→ view project](https://github.com/inemusoro10-rgb/password-generator)
 
 </td>
 </tr>
@@ -67,7 +68,7 @@ deployed in a structured workshop with 10+ students who reported a 90% improveme
 ### 🐍 Snake Game
 A fully object-oriented Snake game with modular architecture separating player, food, and game state logic. The structure mirrors how real embedded software is organized, which was very much intentional.
 
-`C++` `C`
+`C++` `C` `Makefile`
 
 </td>
 <td width="50%">
